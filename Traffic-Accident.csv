@@ -1,0 +1,40 @@
+Accident_ID,Date,Time,City,State,Latitude,Longitude,Weather Condition,Road Condition,Severity
+1001,01-03-2024,08:30,Mumbai,Maharashtra,19.076,72.8777,Foggy,Wet,Major
+1002,02-03-2024,14:45,Pune,Maharashtra,18.5204,73.8567,Clear,Dry,Minor
+1003,03-03-2024,22:10,Nagpur,Maharashtra,21.1458,79.0882,Rainy,Wet,Fatal
+1004,04-03-2024,18:55,Bengaluru,Karnataka,12.9716,77.5946,Cloudy,Potholes,Major
+1005,05-03-2024,09:20,Mangaluru,Karnataka,12.9141,74.856,Sunny,Dry,Minor
+1006,06-03-2024,07:40,Mysuru,Karnataka,12.2958,76.6394,Foggy,Wet,Major
+1007,07-03-2024,11:10,Delhi,Delhi,28.7041,77.1025,Clear,Dry,Minor
+1008,08-03-2024,21:50,Noida,Uttar Pradesh,28.5355,77.391,Rainy,Wet,Fatal
+1009,09-03-2024,16:30,Lucknow,Uttar Pradesh,26.8467,80.9462,Cloudy,Potholes,Major
+1010,10-03-2024,20:15,Kanpur,Uttar Pradesh,26.4499,80.3319,Foggy,Under Construction,Minor
+1011,11-03-2024,05:45,Jaipur,Rajasthan,26.9124,75.7873,Clear,Dry,Major
+1012,12-03-2024,12:20,Jodhpur,Rajasthan,26.2389,73.0243,Rainy,Potholes,Fatal
+1013,13-03-2024,08:10,Udaipur,Rajasthan,24.5854,73.7125,Cloudy,Wet,Minor
+1014,14-03-2024,19:35,Kolkata,West Bengal,22.5726,88.3639,Foggy,Dry,Major
+1015,15-03-2024,06:50,Siliguri,West Bengal,26.7271,88.3953,Clear,Under Construction,Fatal
+1016,16-03-2024,10:25,Howrah,West Bengal,22.5958,88.2636,Sunny,Dry,Minor
+1017,17-03-2024,23:10,Hyderabad,Telangana,17.385,78.4867,Cloudy,Potholes,Major
+1018,18-03-2024,15:40,Warangal,Telangana,17.9784,79.591,Rainy,Wet,Fatal
+1019,19-03-2024,18:50,Chennai,Tamil Nadu,13.0827,80.2707,Foggy,Under Construction,Minor
+1031,06-03-2024,13:10,Thiruvananthapuram,Kerala,8.5241,76.9366,Sunny,Dry,Minor
+1032,07-03-2024,17:30,Nashik,Maharashtra,19.9975,73.7898,Clear,Potholes,Major
+1033,08-03-2024,07:55,Dehradun,Uttarakhand,30.3165,78.0322,Foggy,Wet,Minor
+1034,09-03-2024,22:20,Raipur,Chhattisgarh,21.2514,81.6296,Cloudy,Dry,Fatal
+1035,10-03-2024,19:10,Jodhpur,Rajasthan,26.2389,73.0243,Rainy,Wet,Major
+1036,11-03-2024,14:45,Guwahati,Assam,26.1445,91.7362,Cloudy,Under Construction,Minor
+1037,12-03-2024,06:25,Amritsar,Punjab,31.634,74.8723,Foggy,Potholes,Fatal
+1038,13-03-2024,10:40,Kanpur,Uttar Pradesh,26.4499,80.3319,Clear,Dry,Minor
+1039,14-03-2024,23:05,Shimla,Himachal Pradesh,31.1048,77.1734,Snowy,Wet,Major
+1040,15-03-2024,16:50,Ranchi,Jharkhand,23.3441,85.3096,Rainy,Wet,Fatal
+1041,16-03-2024,08:20,Mysuru,Karnataka,12.2958,76.6394,Clear,Dry,Minor
+1042,17-03-2024,18:45,Varanasi,Uttar Pradesh,25.3176,82.9739,Rainy,Wet,Major
+1043,18-03-2024,22:30,Gwalior,Madhya Pradesh,26.2183,78.1828,Foggy,Potholes,Fatal
+1044,19-03-2024,13:15,Meerut,Uttar Pradesh,28.9845,77.7064,Sunny,Dry,Minor
+1045,20-03-2024,07:55,Udaipur,Rajasthan,24.5854,73.7125,Cloudy,Wet,Major
+1046,21-03-2024,16:40,Vijayawada,Andhra Pradesh,16.5062,80.648,Rainy,Under Construction,Fatal
+1047,22-03-2024,09:25,Goa,Goa,15.2993,74.124,Clear,Dry,Minor
+1048,23-03-2024,21:50,Kota,Rajasthan,25.2138,75.8648,Cloudy,Potholes,Major
+1049,24-03-2024,12:35,Agra,Uttar Pradesh,27.1767,78.0081,Foggy,Wet,Fatal
+1050,25-03-2024,19:10,Siliguri,West Bengal,26.7271,88.3953,Rainy,Under Construction,Minor
